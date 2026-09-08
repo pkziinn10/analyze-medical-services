@@ -3,6 +3,7 @@ numpy
 scikit-learn
 xgboost
 imbalanced-learn
+opfython
 matplotlib
 seaborn
 jupyterlab
